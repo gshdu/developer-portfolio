@@ -8,8 +8,9 @@ h1{
 #orange-header{
     color: orange;
 }
-section{
+.common-section-style{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -29,4 +30,16 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.resume-section{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.info-div{
+    display: flex;
+}
+.info-card{
+    width: 50%;
+    border: solid red 1px;
 }
