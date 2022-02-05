@@ -53,12 +53,12 @@ h1{
     color: orange;
 }
 #ex-card1{
-    border-left: 10px solid;
+    border-left: 7px solid;
     border-image: linear-gradient(tomato, orange);
     border-image-slice: 1;
 }
 #ex-card2{
-    border-left: 10px solid;
+    border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
 }
